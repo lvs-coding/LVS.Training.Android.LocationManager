@@ -3,7 +3,6 @@ package com.lvsandroid.locationmanager;
 import android.app.ProgressDialog;
 import android.location.Location;
 import android.os.Bundle;
-import android.text.TextUtils;
 import android.view.Window;
 import android.widget.TextView;
 
